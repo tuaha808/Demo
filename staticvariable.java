@@ -7,7 +7,7 @@ public class staticvariable {
 
     //static variable
 
-    static String city = "Karachi";
+    static String city = "Karachi/Islamabad";
 
 
     staticvariable(String name, String address){
